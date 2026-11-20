@@ -1,2 +1,1 @@
-# .github
-Default Templates
+This organization contains an archive of the NGN JavaScript _code libraries_ created by [Corey Butler](https://github.com/coreybutler). This project is no longer maintained, but this reference exists for users who still rely on the code for their applications.
